@@ -2,46 +2,37 @@
 
 ## Challenge
 
-Carry out all of the following tasks using _only the command line_! As is usually the case, you're welcome to use any resource you can find (except another student, of course) to reach your answer.
-
-<hr>
-
-## Navigating the Filesystem
-
-Complete each of following steps, **in order** :
-
-1. Create a new directory called `quiz` inside the root directory of this repository (`cli-08-assessment`).
-
-2. Create a new file inside `quiz` called `rhyme.txt`.
-
-3. Open `rhyme.txt` using Sublime (via the terminal) and add the following text:
-
- "The rain in Spain falls mainly in the plain."
-
-Once you've done this, save the file and quit.
-
-4. Make a directory inside `quiz` called `temp`. Inside it, create a new blank file called `temp.md`.
-
-5. Navigate back up to `quiz`, and delete the `temp` directory (with `temp.md` inside of it).
-Use `ls` to show the contents of `quiz` - was `temp` deleted?
-
-## Absolute and Relative Paths
-
-Open up this file in your text editor, and write your answers below (where indicated).
-
-1. Is `/Users/blah_blah/Desktop` a relative path or an absolute path? How do you know?
+1. We just forked a repo on GitHub.com and want to start working on it locally. What command do we use to do that?
 
 <!-- Answer Starts Here -->
 
 <!-- Answer Ends Here -->
 
-2. Suppose that we're working on a project, and we want to use a font that's being hosted somewhere on the internet. Would we use an absolute or relative path to refer to it? Why?
+2. OK, we just wrote some code. What command could we use to see a list of all the changes that have been made since the last commit?
 
 <!-- Answer Starts Here -->
 
 <!-- Answer Ends Here -->
 
-3. Now suppose that we have an image file living inside our project. Would we refer to it with an absolute or relative path? Why?
+3. Oops - it looks like there was a change that we forgot to include in our last commit. How can we revise that commit and fix things?
+
+<!-- Answer Starts Here -->
+
+<!-- Answer Ends Here -->
+
+4. It looks like there was a change on the original repo that we forked from. How could we grab those changes and incorporate them into our local repo?
+
+<!-- Answer Starts Here -->
+
+<!-- Answer Ends Here -->
+
+5. Suppose that we wanted to look at the third-to-last commit on `master`; what command(s) would we write to do that?
+
+<!-- Answer Starts Here -->
+
+<!-- Answer Ends Here -->
+
+6. OK, we've done all the work we want to do locally. Let's update our fork so that we can make a pull request. What command would we use to update our fork?
 
 <!-- Answer Starts Here -->
 
