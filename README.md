@@ -4,11 +4,11 @@
 
 ## Instructions
 
--   Fork and clone this repository
--   Create a new branch, named `response`
--   Checkout the `response` branch
--   Follow the directions given in [diagnostic.md](diagnostic.md)
--   Before the alotted time is up, push to your fork and issue a pull request
+1.  Fork and clone this repository.
+1.  Create a new branch, named `response`.
+1.  Checkout the `response` branch.
+1.  Follow the directions given in [diagnostic.md](diagnostic.md).
+1.  Before the alotted time is up, push to your fork and issue a pull request.
 
 You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
 and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
