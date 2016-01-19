@@ -12,7 +12,7 @@
       "no-html": false,
       "no-shortcut-reference-link": false,
       "no-undefined-references": false,
-      "ordered-list-marker-value": "one",
+      "ordered-list-marker-value": "ordered",
       "rule-style": "---",
       "unordered-list-marker-style": "-"
     }
