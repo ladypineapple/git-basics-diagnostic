@@ -1,11 +1,14 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-## Setup Instructions
-- Fork and clone this repository; then, follow the directions given in `challenge.md`!
+# Git Basics Diagnostic
 
-## Submitting Your Solution
+## Instructions
 
-Once you finish (or run out of time), push your code back up to your fork on GitHub and initiate a pull request.
+-   Fork and clone this repository
+-   Create a new branch, named `response`
+-   Checkout the `response` branch
+-   Follow the directions given in [diagnostic.md](diagnostic.md)
+-   Before the alotted time is up, push to your fork and issue a pull request
 
 ## [License](LICENSE)
 
