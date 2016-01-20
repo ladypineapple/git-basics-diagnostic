@@ -7,4 +7,8 @@
 
 Once you finish (or run out of time), push your code back up to your fork on GitHub and initiate a pull request.
 
-That's it - you're done!
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text licensed under the
+[wtfpl](http://www.wtfpl.net). General Assembly copyright General Assembly,
+Inc., all rights reserved.
