@@ -38,4 +38,6 @@ Write your answers inside this file, where it's indicated by the comments.
 
 6.  Should you ever edit published history?
 
+    ```sh
     <!-- Remove this comment and place your answer here. -->
+    ```
