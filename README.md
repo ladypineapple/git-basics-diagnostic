@@ -4,11 +4,12 @@
 
 ## Instructions
 
--   Fork and clone this repository
--   Create a new branch, named `response`
--   Checkout the `response` branch
--   Follow the directions given in [diagnostic.md](diagnostic.md)
--   Before the alotted time is up, push to your fork and issue a pull request
+-   Fork and clone this repository.
+-   Create a new branch, named `response`.
+-   Checkout the `response` branch.
+-   Follow the directions given in [diagnostic.md](diagnostic.md).
+-   You must have atleast **2 commits** for this diagnostic.
+-   Before the alotted time is up, push to your fork and issue a pull request.
 
 You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
 and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
@@ -17,6 +18,5 @@ and [pull requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text licensed under the
-[wtfpl](http://www.wtfpl.net). General Assembly copyright General Assembly,
-Inc., all rights reserved.
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
