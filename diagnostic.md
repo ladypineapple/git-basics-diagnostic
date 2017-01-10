@@ -40,3 +40,7 @@ changes/additions?
 What are the two formatting items you **need** to make up your commit message?
 
 <!-- Remove this comment and place your answer here. -->
+
+-7.Should you ever edit published history?
+
+ <!-- Remove this comment and place your answer here. -->
